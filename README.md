@@ -11,7 +11,7 @@ Currently, I'm focused on enhancing my frontend skills and exploring new technol
 
 🌱 I’m currently learning JavaScript, TypeScript, Tailwind CSS, Vite and Qwik JS
 
-
+___
 ##### Let's Connect!
 👯 If you are interested in sharing industry insights, AWS best practices or just want to say "Hello", I'd love to hear from you.  
 💬 Ask me about Photography.  
